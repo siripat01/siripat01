@@ -1,10 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey!%20I%20am%20mexnz&fontSize=42&fontAlignY=32&desc=Fullstack%20%7C%20AI%20Agentic%20%7C%20ML%20%7C%20Cloud&descAlignY=51&descAlign=50" alt="Header" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:8B5CF6&height=180&section=header&text=Hey!%20I'm%20Siripat%20🚀&fontSize=42&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cloud%20Architect&descAlignY=55&fontColor=ffffff" alt="Header" />
 </div>
 
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;AI+Agentic+Builder+%F0%9F%A4%96;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Cloud+Architecture+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Building+AI+Agentic+Systems+🧠;Designing+Cloud-Native+Architectures+☁️;Crafting+Fullstack+Applications+💻;Exploring+Machine+Learning+and+Edge+AI+🚀" alt="Typing Animation" />
 </div>
+
 
 ## 🚀 About Me
 
