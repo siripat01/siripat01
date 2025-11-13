@@ -64,7 +64,7 @@ I'm a passionate developer focused on building intelligent systems and scalable 
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/siripat01)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](siriboonruangsiripat@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siriboonruangsiripat@example.com)
 
 </div>
 
