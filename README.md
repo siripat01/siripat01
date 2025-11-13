@@ -55,25 +55,31 @@ I'm a passionate developer focused on building intelligent systems and scalable 
 ![LangGraph](https://img.shields.io/badge/-LangGraph-8E24AA?style=flat-square&logo=graph&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siripat01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siripat01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" height="180"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siripat01&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siripat01&theme=react-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph" />
 </div>
-
-## 📈 Contribution Matrix
-
+📈 Contribution Matrix
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siripat01&theme=radical" alt="Contribution Matrix" />
+  <img src="https://ghchart.rshah.org/F85D7F/siripat01" alt="GitHub Contribution Chart" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siripat01&theme=radical" alt="Contribution Details" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siripat01&theme=radical&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siripat01&theme=radical" alt="Repos Per Language" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siripat01&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siripat01&theme=radical" alt="Stats" />
 </div>
 
 ## 🔥 Current Focus
